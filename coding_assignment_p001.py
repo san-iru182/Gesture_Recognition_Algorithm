@@ -32,8 +32,8 @@ import torch.optim as optim
 train = pd.read_csv("train.csv").to_numpy()
 test = pd.read_csv("test.csv").to_numpy()
 
-"""# BELOW THIS IS THE CODE TO EDIT.
-I have left skeleton code for you to edit.
+"""
+
 
 # deep-learning
 
